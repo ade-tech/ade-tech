@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://img-07.stickers.cloud/packs/6177302d-40cd-4c35-8249-d8b6d9ec64b8/webp/animated/ddd65e7a-d827-4d76-8273-4ddd19ba5b7b.webp" align="center" style="width: 10%" />
+<img src="https://img-07.stickers.cloud/packs/6177302d-40cd-4c35-8249-d8b6d9ec64b8/webp/animated/ddd65e7a-d827-4d76-8273-4ddd19ba5b7b.webp" align="center" style="width: 15%" />
 </div>  
   
 
