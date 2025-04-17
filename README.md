@@ -10,7 +10,7 @@ I'm Abdone, a passionate software engineer who thrives on building scalable, hig
 🚀 **Projects I've Built:**  
 - **[Tasker](https://abdonetasker.netlify.app/)** – A task management app designed for productivity and efficiency.  
 - **[Chatterbox](https://chatter-box-nine-pi.vercel.app/)** – A feature-rich chat app built with React and Vanilla JS, enabling real-time communication.
-- - **[Rhythmo](https://rhythmo-abdone.vercel.app/)** – A feature-rich chat app built with React and Vanilla JS, enabling real-time communication.  
+- **[Rhythmo](https://rhythmo-abdone.vercel.app/)** – A feature-rich chat app built with React and Vanilla JS, enabling real-time communication.  
 
 🔍 Currently diving deeper into **backend development with Python** and exploring **real-time architectures** for scalable applications. I'm always eager to learn, innovate, and collaborate on exciting projects!  
 
