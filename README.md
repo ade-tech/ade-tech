@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">👨‍💻 **Software Engineer | JavaScript & Python Enthusiast** 
+### <div align="center">👨‍💻 **Software Engineer | JavaScript | Typescript & Go Enthusiast** 
 
 I'm Abdone, a passionate software engineer who thrives on building scalable, high-performance applications. I specialize in crafting seamless user experiences with **JavaScript, TypeScript, React, Next.js**, and modern styling tools like **Tailwind and Styled Components**.  
 
@@ -12,7 +12,7 @@ I'm Abdone, a passionate software engineer who thrives on building scalable, hig
 - **[Chatterbox](https://chatter-box-nine-pi.vercel.app/)** – A feature-rich chat app built with React and Vanilla JS, enabling real-time communication.
 - **[Rhythmo](https://rhythmo-abdone.vercel.app/)** – A feature-rich chat app built with React and Vanilla JS, enabling real-time communication.  
 
-🔍 Currently diving deeper into **backend development with Python** and exploring **real-time architectures** for scalable applications. I'm always eager to learn, innovate, and collaborate on exciting projects!  
+🔍 Currently diving deeper into **backend development with Go** and exploring **real-time architectures** for scalable applications. I'm always eager to learn, innovate, and collaborate on exciting projects!  
 
 Let’s build something amazing together! 💡✨  
 </div>  
@@ -63,7 +63,8 @@ Let’s build something amazing together! 💡✨
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="25" /></a>  
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="25" /></a> 
+  <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="25" /></a>  
 </div>
 
 </td></tr></table>  
